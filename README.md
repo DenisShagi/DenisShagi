@@ -64,3 +64,6 @@
 ![Codewars](https://github.r2v.ch/codewars?user=DenisShagi&stroke=COLOR)
 
 ###
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DenisShagi)
+
+###
