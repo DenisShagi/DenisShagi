@@ -60,7 +60,7 @@
 </div>
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+profile+codewars)](https://git.io/typing-svg)
 ![Codewars](https://github.r2v.ch/codewars?user=DenisShagi&stroke=COLOR)
 
 ###
