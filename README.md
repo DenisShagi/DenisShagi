@@ -60,7 +60,7 @@
 </div>
 
 ###
-![Codewars](https://github.r2v.ch/codewars?user=DenisShagi&stroke=%23BB432C)
 
+![Codewars](https://github.r2v.ch/codewars?user=DenisShagi&stroke=COLOR)
 
 ###
