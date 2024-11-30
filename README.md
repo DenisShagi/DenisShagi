@@ -33,13 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-
-<h2>💻 My Tech Stack</h2>
-
-[![Angular][Angular]][Angular-url]
+<h3 align="left">🛠 
 [![RxJS][RxJS]][RxJS-url]
 [![NgRx][NgRx]][NgRx-url]
 [![Redux][Redux]][Redux-url]
@@ -86,8 +80,6 @@
 [![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
 
-[Angular]: https://img.shields.io/badge/angular-C2185B.svg?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.dev/
 [RxJS]: https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white
 [RxJS-url]: https://rxjs.dev/
 [NgRx]: https://img.shields.io/badge/ngrx-BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white
