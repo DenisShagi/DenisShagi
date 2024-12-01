@@ -4,7 +4,7 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+### 
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=DenisShagi&txt=front-end%20developer;"></p>
 
 
