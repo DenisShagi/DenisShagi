@@ -35,7 +35,6 @@
 
 <h3 align="left">🛠 
 [![RxJS][RxJS]][RxJS-url]
-[![NgRx][NgRx]][NgRx-url]
 [![Redux][Redux]][Redux-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
