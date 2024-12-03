@@ -1,14 +1,14 @@
-<br clear="both">
 
-<div align="left" id="contact_badges">
-  <a href="https://t.me/ShagDenis" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
 
 
 ### 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=DenisShagi&txt=front-end%20developer;"></p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hey%20%3CDEVELOPERS%2F%3E%0A%0AI%27m%20DenisShag%0A%0AFront-end%20Developer🤹&width=800&height=400&fontSize=4" alt="Hey <DEVELOPERS/> I'm DenisShag. Front-end Developer">
+</p>
+
+
+
+
 
  
 ###
