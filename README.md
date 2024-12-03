@@ -2,6 +2,10 @@
 
 
 ### 
+
+<div align="center">
+  <img height="400" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
 <p align="center">
   <img src="banner.svg" alt="Hey <DEVELOPERS/> I'm DenisShag">
 </p>
@@ -16,11 +20,16 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Я Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, но больше всего меня зацепила Frontend разработка!<br><br> - 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Проходил курсы по веб-разработке RS School!<br></p>
+<p align="left">
+  I am a Frontend Developer passionate about creating user-friendly and efficient interfaces. My journey in IT started with an intensive program at Sber's School 21, where I gained fundamental programming skills and learned how to solve complex problems under tight deadlines. After completing the program, I continued to grow as a web developer, mastering modern technologies and tools.<br><br>
+  🔭 Participated in educational programs, including intensives and courses.<br>
+  📚 Completed web development courses at RS School, where I deepened my knowledge of JavaScript, React, and other development tools.<br>
+  🚀 Continuously improving my skills and working on personal projects to stay updated with the latest industry trends.
+</p>
 
 ###
 
@@ -29,6 +38,16 @@
 </p>
 
 ###
+<h2>🌟 Personal Projects</h2>
+
+- 🎬 [Angular Project](https://github.com/stardustmeg/rss-youtube)
+
+<h2>🤝 Collaborations</h2>
+
+- 🌱 [Vanilla TS Commercetools Project](https://github.com/stardustmeg/greenshop)
+- 🚂 [Angular Project](https://github.com/kleostro/tu-tu)
+
+### 
 
 <h2>💻  My Tech Stack</h2>
 
@@ -41,6 +60,8 @@
 [![Next.js][Next.js]][Nextjs-url]
 [![Redux][Redux]][Redux-url]
 [![Node.js][Node.js]][Nodejs-url]
+[![PostgreSQL][PostgreSQL]][PostgreSQL-url]
+[![PgAdmin][PgAdmin]][PgAdmin-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![Docker][Docker]][Docker-url]
@@ -79,6 +100,10 @@
 [Redux-url]: https://redux.js.org/
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [Nodejs-url]: https://nodejs.org/
+[PostgreSQL]: https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
+[PgAdmin]: https://img.shields.io/badge/pgadmin-007ACC.svg?style=for-the-badge&logo=pgadmin&logoColor=white
+[PgAdmin-url]: https://www.pgadmin.org/
 [Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 [GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
@@ -117,6 +142,7 @@
 [WebStorm-url]: https://www.jetbrains.com/webstorm/
 [VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
+
 
 ###
 
