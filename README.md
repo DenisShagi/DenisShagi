@@ -7,7 +7,7 @@
 ### 
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=DenisShagi&txt=front-end%20developer;"></p>
 
-
+ 
 ###
 
 <div align="center">
