@@ -3,8 +3,9 @@
 
 ### 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hey%20%3CDEVELOPERS%2F%3E%0A%0AI%27m%20DenisShag%0A%0AFront-end%20Developer🤹&width=800&height=400&fontSize=4" alt="Hey <DEVELOPERS/> I'm DenisShag. Front-end Developer">
+  <img src="banner.svg" alt="Hey <DEVELOPERS/> I'm DenisShag">
 </p>
+
 
 
 
