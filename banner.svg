@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" style="background-color: black;">
+  <text x="50%" y="30%" fill="white" font-size="36" text-anchor="middle" font-family="Arial, sans-serif">Hey &lt;DEVELOPERS/&gt;</text>
+  <text x="50%" y="50%" fill="white" font-size="28" text-anchor="middle" font-family="Arial, sans-serif">I'm DenisShag</text>
+  <text x="50%" y="70%" fill="white" font-size="28" text-anchor="middle" font-family="Arial, sans-serif">Front-end Developer</text>
+</svg>
