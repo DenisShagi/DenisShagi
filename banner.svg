@@ -20,7 +20,7 @@
 				h1 {
 					text-align: center;
 					color: #fff;
-					font-size: 3em;
+					font-size: 4em;
 					letter-spacing: 8px;
 					font-family: "Lucida Console", Monaco, monospace;
 					font-weight: 400;
@@ -82,7 +82,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hey &lt;DEVELOPERS/&gt;,</h1>
+				<h1>Hey &lt;DEVELOPERS/&gt;</h1>
 				<h1>I'm DenisShag</h1>
 			</div>
 		</div>
