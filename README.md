@@ -40,12 +40,12 @@
 ###
 <h2>🌟 Personal Projects</h2>
 
-- 🎬 [Angular Project](https://github.com/stardustmeg/rss-youtube)
-
+- 🌲 [Christmas-Shop](https://denisshagi.github.io/Christmas-Shop/)
+- 📝 [To-Do](https://denisshagi.github.io/clean-code-s1e1/)
+- 
 <h2>🤝 Collaborations</h2>
 
-- 🌱 [Vanilla TS Commercetools Project](https://github.com/stardustmeg/greenshop)
-- 🚂 [Angular Project](https://github.com/kleostro/tu-tu)
+- 🏣 [Online Store Project](https://mxm-practice.netlify.app/)
 
 ### 
 
