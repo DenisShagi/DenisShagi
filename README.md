@@ -42,7 +42,7 @@
 
 - 🌲 [Christmas-Shop](https://denisshagi.github.io/Christmas-Shop/)
 - 📝 [To-Do](https://denisshagi.github.io/clean-code-s1e1/)
-- 
+
 <h2>🤝 Collaborations</h2>
 
 - 🏣 [Online Store Project](https://mxm-practice.netlify.app/)
