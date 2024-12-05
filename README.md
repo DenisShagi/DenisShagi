@@ -146,7 +146,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+profile+codewars)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=156EF7&width=435&lines=My+profile+codewars)](https://git.io/typing-svg)
 
 ###
 
