@@ -53,9 +53,11 @@
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
 [![Javascript][Javascript]][Javascript-url]
-[![TypeScript][TypeScript]][TypeScript-url]
+[![TypeScript][TypeScript]][TypeScript-url] 
+[![PHP][PHP]][PHP-url]
 [![React][React]][React-url]
 [![Next.js][Next.js]][Nextjs-url]
+[![Vue.js][Vue.js]][Vuejs-url]
 [![Redux][Redux]][Redux-url]
 [![Node.js][Node.js]][Nodejs-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
@@ -90,10 +92,14 @@
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TypeScript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
+[PHP]: https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white  
+[PHP-url]: https://www.php.net/  
 [React]: https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://react.dev/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
 [Nextjs-url]: https://nextjs.org/
+[Vue.js]: https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white  
+[Vuejs-url]: https://vuejs.org/  
 [Redux]: https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
