@@ -157,3 +157,6 @@
 [![codewars](https://www.codewars.com/users/DenisShagi/badges/large)](https://www.codewars.com/users/DenisShagi)
 
 ###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
