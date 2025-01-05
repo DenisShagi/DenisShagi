@@ -39,6 +39,7 @@
 
 - 🎠 [Gaming-Website](https://shag-gaming.netlify.app/)
 - 🌲 [Christmas-Shop](https://denisshagi.github.io/Christmas-Shop/)
+- 📋 [To-Do-Advanced](https://denisshagi.github.io/To-Do-Advanced/)
 - 📝 [To-Do](https://denisshagi.github.io/clean-code-s1e1/)
 
 <h2>🤝 Collaborations</h2>
