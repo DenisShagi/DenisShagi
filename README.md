@@ -38,6 +38,7 @@
 <h2>🌟 Personal Projects</h2>
 
 - 🎠 [Gaming-Website](https://shag-gaming.netlify.app/)
+- 🌐 [IP-Addess-Tracker](https://ipfind-eight-black.vercel.app/)
 - 🌲 [Christmas-Shop](https://denisshagi.github.io/Christmas-Shop/)
 - 📋 [To-Do-Advanced](https://denisshagi.github.io/To-Do-Advanced/)
 - 📝 [To-Do](https://denisshagi.github.io/clean-code-s1e1/)
