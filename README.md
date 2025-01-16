@@ -54,13 +54,13 @@
 
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
+[![Tailwind CSS][TailwindCSS]][TailwindCSS-url]
 [![SASS][SASS]][SASS-url]
 [![Javascript][Javascript]][Javascript-url]
-[![TypeScript][TypeScript]][TypeScript-url] 
-[![PHP][PHP]][PHP-url]
+[![TypeScript][TypeScript]][TypeScript-url]
 [![React][React]][React-url]
+[![React Motion][ReactMotion]][ReactMotion-url]
 [![Next.js][Next.js]][Nextjs-url]
-[![Vue.js][Vue.js]][Vuejs-url]
 [![Redux][Redux]][Redux-url]
 [![Node.js][Node.js]][Nodejs-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
@@ -68,7 +68,7 @@
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![Docker][Docker]][Docker-url]
-[![GitHubActions][GitHubActions]][GitHubActions-url]
+[![GitHub Actions][GitHubActions]][GitHubActions-url]
 [![Netlify][Netlify]][Netlify-url]
 [![npm][npm]][npm-url]
 [![Vite][Vite]][Vite-url]
@@ -89,20 +89,20 @@
 [HTML5-url]: https://html.com/html5/
 [CSS3]: https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
 [SASS]: https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [SASS-url]: https://sass-lang.com/
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TypeScript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
-[PHP]: https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white  
-[PHP-url]: https://www.php.net/  
 [React]: https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://react.dev/
+[ReactMotion]: https://img.shields.io/badge/reactmotion-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[ReactMotion-url]: https://github.com/chenglou/react-motion
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
 [Nextjs-url]: https://nextjs.org/
-[Vue.js]: https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white  
-[Vuejs-url]: https://vuejs.org/  
 [Redux]: https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
@@ -147,9 +147,8 @@
 [Figma-url]: https://www.figma.com/
 [WebStorm]: https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white
 [WebStorm-url]: https://www.jetbrains.com/webstorm/
-[VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white
+[VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
-
 
 ###
 
