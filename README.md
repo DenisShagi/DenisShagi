@@ -37,6 +37,7 @@
 ###
 <h2>🌟 Personal Projects</h2>
 
+- 🖥️ [Developer-Search](https://denisshagi.github.io/Dev-finder/)
 - 🎬 [React-Movies](https://denisshagi.github.io/React-movies/)
 - 🎠 [Gaming-Website](https://shag-gaming.netlify.app/)
 - 🌐 [IP-Addess-Tracker](https://ipfind-eight-black.vercel.app/)
